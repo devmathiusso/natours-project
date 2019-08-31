@@ -24,6 +24,7 @@ Project still in development...
 - [helmet](https://github.com/helmetjs/helmet)
 - [express-mongo-sanitize](https://github.com/fiznool/express-mongo-sanitize#readme)
 - [xss-clean](https://github.com/jsonmaur/xss-clean)
+- [hpp](https://github.com/analog-nico/hpp)
 
 ## Versioning
 
