@@ -22,6 +22,8 @@ Project still in development...
 - [nodemailer](https://nodemailer.com/about/)
 - [express-rate-limit](https://github.com/nfriedly/express-rate-limit)
 - [helmet](https://github.com/helmetjs/helmet)
+- [express-mongo-sanitize](https://github.com/fiznool/express-mongo-sanitize#readme)
+- [xss-clean](https://github.com/jsonmaur/xss-clean)
 
 ## Versioning
 
