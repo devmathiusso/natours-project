@@ -20,6 +20,8 @@ Project still in development...
 - [slugify](https://github.com/simov/slugify)
 - [validator](https://github.com/validatorjs/validator.js)
 - [nodemailer](https://nodemailer.com/about/)
+- [express-rate-limit](https://github.com/nfriedly/express-rate-limit)
+- [helmet](https://github.com/helmetjs/helmet)
 
 ## Versioning
 
